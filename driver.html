@@ -1,0 +1,24 @@
+<html lang="en">
+  <head>
+      <meta charset="utf-8"/>
+      <title> drawing app </title>
+  </head>
+
+  <body onload = "start()" style="background:beige;">
+    <div>**Start off by clicking on the brush**</div>
+    <canvas id="canvas" width="600" height="550" style="border:3px solid sienna;background:white">
+      yo browser too old for this
+    </canvas>
+
+<br>
+    <canvas id="toolBar" width="600" height="100" style="border:3px solid sienna">
+    </canvas>
+<br>
+   <button id = "clearButton" onclick="start();"style="background:#c0ffee; font-family:'Chalkboard';font-size:25px; " >Clear Canvas</button>
+   <a id = "saveButton" onclick="save();" style="background:#c0ffee;font-family:'Chalkboard';font-size:25px;color:black;border:outset lightgray;;margin-left:290px;text-decoration:none;">Save Canvas</a>
+<br><br><br>
+    <canvas id="sideMenu" width="500" height="550">
+    </canvas>
+      <script src = "app.js"></script>
+  </body>
+</html>
