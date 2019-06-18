@@ -1,6 +1,8 @@
 # paint
 simple painting web app made to practice javascript basics
 
+--------------------------------------------
+
 Start off by clicking on the brush.
 
 You can click on the red, green, and
