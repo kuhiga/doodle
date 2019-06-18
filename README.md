@@ -19,3 +19,4 @@ To use an eraser click the erase button.
 To download your drawing, click “Save Canvas”
 
 ![Alt text](https://github.com/kuhiga/paint/blob/master/screenshot1.png "Optional Title")
+![Alt text](https://github.com/kuhiga/paint/blob/master/screenshot2.png "Optional Title")
