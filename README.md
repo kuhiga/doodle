@@ -17,3 +17,5 @@ To use an eraser click the erase button.
 
 “Clear Canvas” will reset your canvas.
 To download your drawing, click “Save Canvas”
+
+![Alt text](https://github.com/kuhiga/paint/blob/master/screenshot1.png "Optional Title")
