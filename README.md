@@ -1,4 +1,4 @@
-# paint
+# doodle
 simple painting web app made to practice javascript basics
 
 --------------------------------------------
