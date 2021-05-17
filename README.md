@@ -1,6 +1,8 @@
 # doodle
 simple painting web app made to practice javascript basics
 
+technologies used: JavaScript, WebGL
+
 --------------------------------------------
 
 Start off by clicking on the brush.
