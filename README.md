@@ -1,7 +1,7 @@
 # doodle
 simple painting web app made to practice javascript basics
 
-technologies used: JavaScript, WebGL
+technologies used: JavaScript, WebGL, HTML Canvas
 
 --------------------------------------------
 
